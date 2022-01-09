@@ -6,5 +6,7 @@ For having a clearer picture of time and schedual,this application designed to i
 Also, the plans would be saved in local storage and by refreshing the page they will stay on screen.
 
 Here is a screenshot of the page:
+![work-day-scheduler Page.](./Asset/screenshot.png)
 
 You can access to web page by following link:
+https://sasansinson.github.io/work-day-scheduler/
